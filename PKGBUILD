@@ -1,6 +1,6 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
 pkgname=jsonpath-dl
-pkgver=1.2.1
+pkgver=1.1.1
 pkgrel=1
 pkgdesc="Extract fields from double-newline separated JSON"
 arch=('any')
